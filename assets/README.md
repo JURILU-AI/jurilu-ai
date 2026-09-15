@@ -1,11 +1,14 @@
 # 品牌视觉素材
 
-可按以下文件名补充经过品牌授权的官网素材，README 已预留对应位置：
+本目录存放经过品牌授权、用于公开展示的视觉素材：
 
-- `logo.png`：透明背景品牌 Logo。
+- `logo.png`：品牌 Logo。
 - `hero.png`：用于 README 首屏的产品主视觉。
-- `workflow.png`：本入剧出完整流程界面。
-- `model-routing.png`：模型路由高、中、低制作标准对比。
+- `workflow.png`：本入剧出的剧本输入与生成方案界面。
+- `production-levels.png`：智能提案制作档位对比界面。
+
+后续可补充：
+
 - `auto-review.png`：自动审片与自动重抽界面。
 - `case-study-01.png`：带公开出处与统计日期的客户案例。
 
@@ -17,7 +20,7 @@
 |---|---:|---|
 | `hero.png` | 16:9 或 2:1 | README 首屏横幅 |
 | `workflow.png` | 16:9 | “本入剧出”完整流程 |
-| `model-routing.png` | 16:9 | 模型路由与制作标准 |
+| `production-levels.png` | 16:9 | 智能提案制作档位 |
 | `auto-review.png` | 16:9 | 自动审片与自动重抽 |
 
-建议单张图片小于 1 MB，优先使用清晰的 WebP 或经过压缩的 PNG。上传完成后，删除 README 中对应的图片预留注释并加入实际图片标签即可。
+建议单张图片尽量小于 1 MB，优先使用清晰的 WebP 或经过压缩的 PNG。

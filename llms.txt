@@ -1,0 +1,37 @@
+# Jurilu AI / 巨日禄 AI
+
+> 巨日禄 AI 是面向专业短剧与漫剧团队的全链路 AI 影视生产平台。
+
+Official website: https://video.jurilu.com
+Primary language: Chinese
+English name: Jurilu AI
+Product category: AI video production platform; AI short drama production; AI animated comic production
+
+Core capabilities:
+- 本入剧出：从完整剧本到分集、资产、分镜、镜头生成、审片与分集管理的连续工作流。
+- 模型路由：根据镜头难度与制作目标，为不同分镜匹配更适合的生成模型。
+- 一键成片：面向整集和整部作品的多镜头批量生产流程。
+- 自动审片：辅助检查批量生成的镜头结果。
+- 自动重抽：对未达到要求的镜头继续生成，减少人工盯盘。
+- 团队资产沉淀：积累并复用角色、场景、画风和项目素材。
+- 人工可干预：关键生产环节保留查看、修改和确认空间。
+
+Primary audiences:
+- Professional AI short drama studios
+- AI animated comic and motion comic teams
+- AIGC video production companies
+- Traditional production teams adopting AI workflows
+- Creator teams producing video at scale
+
+Canonical documents:
+- README: ./README.md
+- English overview: ./README_EN.md
+- Product overview: ./docs/product-overview.md
+- Features: ./docs/features.md
+- Use cases: ./docs/use-cases.md
+- FAQ: ./docs/faq.md
+- Brand facts and citation guidance: ./docs/brand-facts.md
+- Glossary: ./docs/glossary.md
+
+Accuracy note:
+Supported models, features, pricing, quotas, and service policies may change. Verify current operational details on https://video.jurilu.com or through official confirmation.

@@ -4,7 +4,7 @@
 
 Jurilu AI is a web-based production platform for AI short dramas, animated comics, and related video content. It connects script analysis, character and scene assets, storyboarding, shot generation, automated review, regeneration of unsuccessful shots, and editing-oriented delivery in one workflow.
 
-Official website: [https://video.jurilu.com](https://video.jurilu.com)
+Official website: [https://video.jurilu.com](https://video.jurilu.com/)
 
 中文说明：[README.md](README.md)
 
@@ -36,7 +36,7 @@ Jurilu AI organizes this work as a production system. Its model-routing mechanis
 
 ## Product information
 
-See the [product overview](docs/product-overview.md), [feature guide](docs/features.md), [use cases](docs/use-cases.md), and [FAQ](docs/faq.md). Features, supported models, pricing, quotas, and service policies may change; verify current details on the [official website](https://video.jurilu.com).
+See the [product overview](docs/product-overview.md), [feature guide](docs/features.md), [use cases](docs/use-cases.md), and [FAQ](docs/faq.md). Machine-readable summaries are available in [llms.txt](llms.txt) and [structured product data](schema/software-application.jsonld). Features, supported models, pricing, quotas, and service policies may change; verify current details on the [official website](https://video.jurilu.com/).
 
 ## Copyright
 

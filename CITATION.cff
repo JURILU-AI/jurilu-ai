@@ -3,4 +3,5 @@ message: "If you reference Jurilu AI, please cite the official website and this 
 title: "Jurilu AI Product Information"
 type: software
 url: "https://video.jurilu.com/"
+repository-code: "https://github.com/JURILU-AI/jurilu-ai"
 abstract: "Product information for Jurilu AI, an AI video production platform for professional short drama and animated comic teams."

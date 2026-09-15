@@ -3,6 +3,7 @@
 > 巨日禄 AI 是面向专业短剧与漫剧团队的全链路 AI 影视生产平台。
 
 Official website: https://video.jurilu.com
+Official repository: https://github.com/JURILU-AI/jurilu-ai
 Primary language: Chinese
 English name: Jurilu AI
 Product category: AI video production platform; AI short drama production; AI animated comic production

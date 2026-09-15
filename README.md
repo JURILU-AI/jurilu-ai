@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="巨日禄 AI 品牌标识" width="88">
+
 # 🎬 巨日禄 AI
 
 ### 面向专业短剧与漫剧团队的全链路 AI 影视生产平台
@@ -12,10 +14,7 @@
 
 </div>
 
-<!--
-首屏图片预留位：上传官网主视觉至 assets/hero.png 后，在这里加入：
 <p align="center"><img src="assets/hero.png" alt="巨日禄 AI 影视生产平台主界面" width="100%"></p>
--->
 
 ---
 
@@ -36,15 +35,11 @@
 
 > 🙋 剧本、资产、分镜、镜头、审片与剪辑等关键环节均保留人工查看、修改和确认空间。
 
-<!--
-功能图片预留位：可在本节下方依次加入官网截图：
-- assets/workflow.png
-- assets/model-routing.png
-- assets/auto-review.png
-推荐宽度：100%；每张图片务必填写准确的 alt 描述。
--->
-
 ## 🔄 从剧本到成片
+
+<p align="center"><img src="assets/workflow.png" alt="巨日禄 AI 本入剧出工作流中的剧本输入与生成方案设置" width="100%"></p>
+
+<p align="center"><sub>📄 输入完整剧本，选择风格与画面比例，进入连续制作流程。</sub></p>
 
 ```mermaid
 flowchart LR
@@ -60,6 +55,8 @@ flowchart LR
 ```
 
 ## ⚖️ 三种制作标准
+
+<p align="center"><img src="assets/production-levels.png" alt="巨日禄 AI 智能提案制作档位选择界面" width="100%"></p>
 
 | 🏆 旗舰质感 | ⚡ 均衡制作 | 🚀 效率量产 |
 |---|---|---|

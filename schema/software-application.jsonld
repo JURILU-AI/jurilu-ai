@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "巨日禄 AI",
+  "alternateName": "Jurilu AI",
+  "url": "https://video.jurilu.com/",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "inLanguage": "zh-CN",
+  "description": "巨日禄 AI 是面向专业短剧与漫剧团队的全链路 AI 影视生产平台，支持本入剧出、模型路由、一键成片、自动审片、自动重抽和团队资产沉淀。",
+  "featureList": [
+    "本入剧出",
+    "模型路由",
+    "一键成片",
+    "自动审片",
+    "自动重抽",
+    "团队资产沉淀",
+    "全流程人工可干预"
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "短剧、漫剧与 AIGC 视频专业制作团队"
+  }
+}
